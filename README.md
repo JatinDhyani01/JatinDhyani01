@@ -1,12 +1,11 @@
-```markdown
 <h1 align="center">Jatin Dhyani</h1>
 
 <p align="center">
-  <strong>Computer Science Undergraduate • Aspiring AI Systems Engineer</strong>
+  Building AI systems, agents & scalable backends
 </p>
 
 <p align="center">
-  Building reliable AI systems, agentic workflows, and scalable backend applications.
+  I ship fast, learn by building, and care about real-world systems
 </p>
 
 <p align="center">
@@ -17,148 +16,91 @@
 
 ---
 
-# About
+## About
 
-I'm a Computer Science undergraduate passionate about building AI systems that solve real-world problems.
+I’m focused on building AI systems that actually work outside demos.
 
-My interests are centered around **AI systems**, **backend engineering**, and **LLM-powered applications**, with a focus on building software that is reliable, maintainable, and practical.
+Instead of just calling APIs, I’m learning how to:
+- design agent workflows (reason → act → observe)
+- build RAG pipelines with real data
+- structure backend systems that can scale and stay reliable
 
-I enjoy taking projects from an idea to deployment while continuously improving architecture, performance, and developer experience.
-
----
-
-# Current Focus
-
-- AI Systems
-- Autonomous AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Backend Engineering
-- LLM Applications
-- System Design
-- Scalable APIs
+I like working end-to-end — from idea → backend → deployment — and improving through iteration.
 
 ---
 
-# Engineering Stack
+## What I’m building
 
-## Languages
+### → AI Agent (Autonomous System)
+An evolving agent system that:
+- decomposes tasks into steps
+- uses tools (APIs, search, functions)
+- maintains memory across interactions
+- iterates based on results
 
-- Python
-- SQL
-- JavaScript
-
-## AI Systems
-
-- OpenAI API
-- LangGraph
-- LangChain
-- RAG Pipelines
-- Embedding Models
-- FAISS
-- Vector Search
-
-## Backend
-
-- FastAPI
-- REST APIs
-- PostgreSQL
-- MongoDB
-- SQLAlchemy
-- Pydantic
-
-## Infrastructure
-
-- Docker
-- Linux
-- Git
-- GitHub Actions
-
-## Developer Tools
-
-- VS Code
-- Postman
-- Jupyter Notebook
+Goal: move from “prompt-response” to “task execution systems”
 
 ---
 
-# Featured Projects
+### → RAG System (Retrieval-Augmented Generation)
+- document ingestion (PDFs, structured data)
+- embedding pipelines + vector search
+- context-aware responses
 
-## Autonomous AI Agent
-
-An autonomous agent capable of planning, reasoning, tool calling, memory management, and multi-step task execution.
-
-**Tech:** Python • FastAPI • LangGraph • OpenAI
-
----
-
-## Production RAG Platform
-
-A Retrieval-Augmented Generation system with document ingestion, semantic retrieval, vector search, and grounded responses.
-
-**Tech:** FastAPI • PostgreSQL • FAISS • OpenAI
+Focus: making LLM outputs grounded and useful
 
 ---
 
-## AI Workflow Engine
-
-Composable workflows for orchestrating AI agents with asynchronous execution and modular architecture.
-
-**Tech:** Python • FastAPI • LangGraph
-
----
-
-## FastAPI Backend Template
-
-A reusable backend template featuring authentication, PostgreSQL integration, modular architecture, Docker, and clean project organization.
-
-**Tech:** FastAPI • PostgreSQL • Docker
+### → Backend Systems (FastAPI)
+- API design & service architecture
+- authentication + database integration
+- modular, production-ready structure
 
 ---
 
-# Engineering Philosophy
+## Tech Stack
 
-I believe great AI products are built on great software engineering.
+**Core:**  
+Python, FastAPI  
 
-My approach is simple:
+**Backend & DB:**  
+PostgreSQL, MongoDB  
 
-- Build useful software.
-- Keep systems simple and maintainable.
-- Measure, iterate, and improve.
-- Prefer reliability over unnecessary complexity.
+**AI Systems:**  
+LLMs, LangChain, RAG, embeddings  
 
----
+**Other:**  
+REST APIs, Node.js (basic)  
 
-# Currently Learning
-
-- PyTorch
-- Hugging Face Transformers
-- Async Python
-- Redis
-- Kubernetes
-- Distributed Systems
-- Model Serving
-- LLM Infrastructure
+**Learning next:**  
+Docker, system design, async systems  
 
 ---
 
-# GitHub Statistics
+## Current Focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JatinDhyani01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinDhyani01&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
-# Connect
-
-- **GitHub** — https://github.com/JatinDhyani01
-- **LinkedIn** — https://www.linkedin.com/in/JatinDhyani01
-- **Email** — jatindhyani35@gmail.com
+- building production-style AI systems  
+- improving system design thinking  
+- shipping consistently (projects > tutorials)  
 
 ---
 
-<p align="center">
-  <i>Building software that remains useful long after the first demo.</i>
-</p>
-```
+## Philosophy
+
+- build → break → fix → repeat  
+- small projects, shipped fast  
+- clarity over complexity  
+
+---
+
+## What you’ll find here
+
+- real projects (not just experiments)  
+- systems improving over time  
+- code that reflects learning + iteration  
+
+---
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JatinDhyani01&show_icons=true)
