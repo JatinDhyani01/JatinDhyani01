@@ -2,11 +2,11 @@
 <h1 align="center">Jatin Dhyani</h1>
 
 <p align="center">
-  <strong>AI Systems Engineer</strong>
+  <strong>Computer Science Undergraduate • Aspiring AI Systems Engineer</strong>
 </p>
 
 <p align="center">
-Building reliable AI systems, agentic workflows, and scalable backend infrastructure.
+  Building reliable AI systems, agentic workflows, and scalable backend applications.
 </p>
 
 <p align="center">
@@ -17,98 +17,140 @@ Building reliable AI systems, agentic workflows, and scalable backend infrastruc
 
 ---
 
-## About
+# About
 
 I'm a Computer Science undergraduate passionate about building AI systems that solve real-world problems.
 
-My interests lie at the intersection of **AI systems**, **backend engineering**, and **distributed software**, with a focus on designing reliable applications that move beyond demos.
+My interests are centered around **AI systems**, **backend engineering**, and **LLM-powered applications**, with a focus on building software that is reliable, maintainable, and practical.
 
-I enjoy taking projects from an idea to deployment, continuously improving architecture, performance, and developer experience through practical engineering.
+I enjoy taking projects from an idea to deployment while continuously improving architecture, performance, and developer experience.
 
 ---
 
-## Current Focus
+# Current Focus
 
-- Production AI Systems
+- AI Systems
 - Autonomous AI Agents
 - Retrieval-Augmented Generation (RAG)
-- LLM Infrastructure
 - Backend Engineering
+- LLM Applications
 - System Design
-- Distributed Systems
+- Scalable APIs
 
 ---
 
-## Engineering Stack
+# Engineering Stack
 
-### Languages
+## Languages
 
 - Python
 - SQL
 - JavaScript
 
-### Backend
+## AI Systems
 
-- FastAPI
-- PostgreSQL
-- MongoDB
-- REST APIs
-
-### AI
-
-- OpenAI APIs
+- OpenAI API
 - LangGraph
 - LangChain
-- FAISS
-- Vector Databases
+- RAG Pipelines
 - Embedding Models
+- FAISS
+- Vector Search
 
-### Infrastructure
+## Backend
+
+- FastAPI
+- REST APIs
+- PostgreSQL
+- MongoDB
+- SQLAlchemy
+- Pydantic
+
+## Infrastructure
 
 - Docker
 - Linux
 - Git
 - GitHub Actions
 
----
+## Developer Tools
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Autonomous AI Agent** | Planning, reasoning, memory, tool calling, and autonomous task execution. |
-| **Production RAG Platform** | Document ingestion, semantic retrieval, hybrid search, reranking, and grounded generation. |
-| **FastAPI Backend Template** | Authentication, PostgreSQL, modular architecture, Docker, and production-ready backend patterns. |
-| **AI Workflow Engine** | Multi-agent orchestration, asynchronous workflows, and scalable task execution. |
+- VS Code
+- Postman
+- Jupyter Notebook
 
 ---
 
-## Engineering Philosophy
+# Featured Projects
+
+## Autonomous AI Agent
+
+An autonomous agent capable of planning, reasoning, tool calling, memory management, and multi-step task execution.
+
+**Tech:** Python • FastAPI • LangGraph • OpenAI
+
+---
+
+## Production RAG Platform
+
+A Retrieval-Augmented Generation system with document ingestion, semantic retrieval, vector search, and grounded responses.
+
+**Tech:** FastAPI • PostgreSQL • FAISS • OpenAI
+
+---
+
+## AI Workflow Engine
+
+Composable workflows for orchestrating AI agents with asynchronous execution and modular architecture.
+
+**Tech:** Python • FastAPI • LangGraph
+
+---
+
+## FastAPI Backend Template
+
+A reusable backend template featuring authentication, PostgreSQL integration, modular architecture, Docker, and clean project organization.
+
+**Tech:** FastAPI • PostgreSQL • Docker
+
+---
+
+# Engineering Philosophy
 
 I believe great AI products are built on great software engineering.
 
-I value:
+My approach is simple:
 
-- Reliability over complexity
-- Simplicity over unnecessary abstraction
-- Iteration over perfection
-- Systems thinking over isolated scripts
-
-My goal is to build software that remains useful long after the first demo.
+- Build useful software.
+- Keep systems simple and maintainable.
+- Measure, iterate, and improve.
+- Prefer reliability over unnecessary complexity.
 
 ---
 
-## GitHub
+# Currently Learning
+
+- PyTorch
+- Hugging Face Transformers
+- Async Python
+- Redis
+- Kubernetes
+- Distributed Systems
+- Model Serving
+- LLM Infrastructure
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JatinDhyani01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinDhyani01&layout=compact&hide_border=true&theme=transparent"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JatinDhyani01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinDhyani01&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## Connect
+# Connect
 
 - **GitHub** — https://github.com/JatinDhyani01
 - **LinkedIn** — https://www.linkedin.com/in/JatinDhyani01
@@ -117,6 +159,6 @@ My goal is to build software that remains useful long after the first demo.
 ---
 
 <p align="center">
-<i>Building software that remains useful long after the demo.</i>
+  <i>Building software that remains useful long after the first demo.</i>
 </p>
 ```
